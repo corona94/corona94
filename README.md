@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I´m Octavio Mendoza 👋
 
 <!--
 **corona94/corona94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
