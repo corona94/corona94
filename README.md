@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![corona94's Stats](https://github-readme-stats.vercel.app/api?username=corona94&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-![corona94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=corona94&theme=dracula&hide_border=true)
-![corona94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corona94&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
