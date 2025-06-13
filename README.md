@@ -3,7 +3,7 @@
 <h2>Hi there, I´m Octavio Mendoza 👋</h2>
 <div align="left">
 <p>I'm a computer engineer passionate about software development. I have over six years of experience in the industry. 
-  I have solid programming skills and am fluent in various languages. Let's learn more about me.</p> 👇
+  I have solid programming skills and am fluent in various languages. Let's learn more about me. 👇</p> 
 </div>
 
 <br>
