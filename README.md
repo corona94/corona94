@@ -16,4 +16,64 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>Skills</h3>
 
+
+
+          
+<table >
+  <tbody>
+  <td> <h3>Language Programing</h3> </td>
+    <td>
+           <img src="https://skillicons.dev/icons?i=cpp,,cs,,py,,java,,js"  height="40"/>      
+    </td>      
+  </tr>
+    <tr>
+   <td>
+     <h3>Datebase</h3>
+   </td>
+    <td>
+      
+<img src="https://skillicons.dev/icons?i=mysql,,postgres" height="40"/>
+    </td>
+  </tr>
+   <tr>
+   <td><h3>Backend</h3> </td>
+    <td> 
+      <img src="https://skillicons.dev/icons?i=maven,,spring," height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" />  
+    </td>
+    <tr>
+  <td>
+    <h3>Framework Frontend</h3>
+  </td>
+    <td> 
+       <img src="https://skillicons.dev/icons?i=react,,vite,,tailwind,,bootstrap,,css,,html,,sass,"  height="40"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40"/>
+    </td>
+  </tr>
+     <tr>
+  <td><h3>IDES</h3></td>
+    <td> 
+       <img src="https://skillicons.dev/icons?i=visualstudio,,vscode," height="40"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
+    </td>
+  </tr>
+   <tr>
+  <td><h3>DevOps</h3></td>
+    <td> 
+       <img src="https://skillicons.dev/icons?i=docker,,jenkins," height="40"/>
+    </td>
+  </tr>
+   <tr>
+  <td><h3>Version Control</h3></td>
+    <td> 
+       <img src="https://skillicons.dev/icons?i=git,,github," height="40"/>
+    </td>
+  </tr>
+
+  </tbody>
+</table>
+
+  
+</table>
