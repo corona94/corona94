@@ -1,23 +1,45 @@
 
 
 <h2>Hi there, I´m Octavio Mendoza 👋</h2>
-<div align="center">
+<div align="left">
 <p>I'm a computer engineer passionate about software development. I have over six years of experience in the industry. 
   I have solid programming skills and am fluent in various languages. Let's learn more about me.</p>
 </div>
 
+<br>
+<br>
+
+
 <div align="center">
-  
-<p align="center">Soft Skills</p>
+<table>
+  <tbody>
+  <tr>
+    <td>
+      <p >Soft Skills</p>
 <p>🔨 Problem solving</p>
 <p>🙇 Critical thinking</p>
 <p>🔧 Adaptability</p>
 <p>❔ Self-taught</p>
 <p>⌚ Accountability</p>
+    </td>
+    <td>
+      
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=corona94&layout=compact&hide=hlsl,shaderlab,smalltalk&langs_count=8&card_width=320&theme=dracula" />
+  </a>
+</p>
+    </td>
+  </tr>
+    
+  </tbody>
+</table>
   
 </div>
+
 <br>
 <br>
+
 
 
 <!--
@@ -48,17 +70,10 @@ Here are some ideas to get you started:
   <img width=50% height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=corona94&theme=dracula" />
 </a> -->
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=corona94&layout=compact&hide=hlsl,shaderlab,smalltalk&langs_count=8&card_width=320&theme=dracula" />
-  </a>
-</p>
 
 
-<br>
-<br>
-<br>
-<br>
+
+
 
 
 </div>
