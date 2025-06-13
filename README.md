@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   </td>
     <td> 
        <img src="https://skillicons.dev/icons?i=react,,vite,,tailwind,,bootstrap,,css,,html,,sass,"  height="40"/>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40"/>
     </td>
   </tr>
      <tr>
