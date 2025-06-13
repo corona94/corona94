@@ -94,7 +94,7 @@ Skills
     <tr>
   <td> <p>Language Programing</p> </td>
     <td>
-      <div align="center" >
+      <div align="left" >
         <img src="https://skillicons.dev/icons?i=cpp,,cs,,py,,java,,js"  height="40"/> 
       </div>        
     </td>      
@@ -104,7 +104,7 @@ Skills
      <p>Datebase</p>
    </td>
     <td>
-        <div align="center" >
+        <div align="left" >
         <img src="https://skillicons.dev/icons?i=mysql,,postgres" height="40"/>
         </div>
     </td>
@@ -112,7 +112,7 @@ Skills
    <tr>
    <td><p>Backend</p> </td>
     <td> 
-      <div align="center">
+      <div align="left">
       <img src="https://skillicons.dev/icons?i=maven,,spring," height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" />  
       </div>
@@ -122,7 +122,7 @@ Skills
     <p>Framework Frontend</p>
   </td>
     <td> 
-      <div align="center">
+      <div align="left">
        <img src="https://skillicons.dev/icons?i=react,,vite,,tailwind,,bootstrap,,css,,html,,sass,"  height="40"/>
       </div>
     </td>
@@ -130,7 +130,7 @@ Skills
      <tr>
   <td><p>IDES</p></td>
     <td> 
-      <div align="center">
+      <div align="left">
        <img src="https://skillicons.dev/icons?i=visualstudio,,vscode," height="40"/>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
       </div>
@@ -139,7 +139,7 @@ Skills
    <tr>
   <td><p>DevOps</p></td>
     <td> 
-      <div align="center">
+      <div align="left">
        <img src="https://skillicons.dev/icons?i=docker,,jenkins," height="40"/>
       </div>
     </td>
@@ -147,7 +147,7 @@ Skills
    <tr>
   <td><p>Version Control</p></td>
     <td> 
-      <div align="center">
+      <div align="left">
        <img src="https://skillicons.dev/icons?i=git,,github," height="40"/>
       </div>
     </td>
