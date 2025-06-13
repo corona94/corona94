@@ -1,5 +1,8 @@
-## Hi there, I´m Octavio Mendoza 👋
-## I'm a computer engineer passionate about software development. I have over six years of experience in the industry. I have solid programming skills and am fluent in various languages. Let's learn more about me.
+<h2>Hi there, I´m Octavio Mendoza 👋</h2>
+
+
+<p>I'm a computer engineer passionate about software development. I have over six years of experience in the industry. I have solid programming skills and am fluent in various languages. Let's learn more about me.</p>
+
 
 <!--
 **corona94/corona94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3OTI4NDUsIm5iZiI6MTc0OTc5MjU0NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEzVDA1MjkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhYmIyNzcyYzE5ZmU0YjRmZmVmMGRmYjVlNTQzNGFlNTllOGY1YmFhODU2ODIzZTc1OWM4YTFiMTNiNGY1OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yarEVLMy4-cox8wzZHw9SembHWn3lNDO06g0EXXEtoI)
+<!--![Banner](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3OTI4NDUsIm5iZiI6MTc0OTc5MjU0NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEzVDA1MjkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhYmIyNzcyYzE5ZmU0YjRmZmVmMGRmYjVlNTQzNGFlNTllOGY1YmFhODU2ODIzZTc1OWM4YTFiMTNiNGY1OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yarEVLMy4-cox8wzZHw9SembHWn3lNDO06g0EXXEtoI)-->
 
 
 
