@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corona94&layout=pie&hide=hlsl,shaderlab,smalltalk)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corona94&repo=BackendSpring)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <h3>Skills</h3>
 
-
-
-          
 <table >
   <tbody>
   <td> <h3>Language Programing</h3> </td>
@@ -70,9 +73,6 @@ Here are some ideas to get you started:
        <img src="https://skillicons.dev/icons?i=git,,github," height="40"/>
     </td>
   </tr>
-
   </tbody>
 </table>
 
-  
-</table>
