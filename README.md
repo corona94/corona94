@@ -1,7 +1,23 @@
+
+
 <h2>Hi there, I´m Octavio Mendoza 👋</h2>
+<div align="center">
+<p>I'm a computer engineer passionate about software development. I have over six years of experience in the industry. 
+  I have solid programming skills and am fluent in various languages. Let's learn more about me.</p>
+</div>
 
-
-<p>I'm a computer engineer passionate about software development. I have over six years of experience in the industry. I have solid programming skills and am fluent in various languages. Let's learn more about me.</p>
+<div align="center">
+  
+<p align="center">Soft Skills</p>
+<p>🔨 Problem solving</p>
+<p>🙇 Critical thinking</p>
+<p>🔧 Adaptability</p>
+<p>❔ Self-taught</p>
+<p>⌚ Accountability</p>
+  
+</div>
+<br>
+<br>
 
 
 <!--
@@ -28,70 +44,100 @@ Here are some ideas to get you started:
 
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=50% height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=corona94&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=corona94&layout=compact&hide=hlsl,shaderlab,smalltalk&langs_count=8&card_width=320&theme=dracula" />
-</a>
+</a> -->
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=corona94&layout=compact&hide=hlsl,shaderlab,smalltalk&langs_count=8&card_width=320&theme=dracula" />
+  </a>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
 
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corona94&repo=BackendSpring)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<h3>Skills</h3>
+<p align="center">
+Skills
+</p>
+
+<div align="center" >
 
 <table >
   <tbody>
     <tr>
-  <td> <h3>Language Programing</h3> </td>
+  <td> <p>Language Programing</p> </td>
     <td>
-           <img src="https://skillicons.dev/icons?i=cpp,,cs,,py,,java,,js"  height="40"/>      
+      <div align="center" >
+        <img src="https://skillicons.dev/icons?i=cpp,,cs,,py,,java,,js"  height="40"/> 
+      </div>        
     </td>      
   </tr>
     <tr>
    <td>
-     <h3>Datebase</h3>
+     <p>Datebase</p>
    </td>
     <td>
-      
-<img src="https://skillicons.dev/icons?i=mysql,,postgres" height="40"/>
+        <div align="center" >
+        <img src="https://skillicons.dev/icons?i=mysql,,postgres" height="40"/>
+        </div>
     </td>
   </tr>
    <tr>
-   <td><h3>Backend</h3> </td>
+   <td><p>Backend</p> </td>
     <td> 
+      <div align="center">
       <img src="https://skillicons.dev/icons?i=maven,,spring," height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" />  
+      </div>
     </td>
     <tr>
   <td>
-    <h3>Framework Frontend</h3>
+    <p>Framework Frontend</p>
   </td>
     <td> 
+      <div align="center">
        <img src="https://skillicons.dev/icons?i=react,,vite,,tailwind,,bootstrap,,css,,html,,sass,"  height="40"/>
+      </div>
     </td>
   </tr>
      <tr>
-  <td><h3>IDES</h3></td>
+  <td><p>IDES</p></td>
     <td> 
+      <div align="center">
        <img src="https://skillicons.dev/icons?i=visualstudio,,vscode," height="40"/>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" />
+      </div>
     </td>
   </tr>
    <tr>
-  <td><h3>DevOps</h3></td>
+  <td><p>DevOps</p></td>
     <td> 
+      <div align="center">
        <img src="https://skillicons.dev/icons?i=docker,,jenkins," height="40"/>
+      </div>
     </td>
   </tr>
    <tr>
-  <td><h3>Version Control</h3></td>
+  <td><p>Version Control</p></td>
     <td> 
+      <div align="center">
        <img src="https://skillicons.dev/icons?i=git,,github," height="40"/>
+      </div>
     </td>
   </tr>
   </tbody>
 </table>
+</div>
 
