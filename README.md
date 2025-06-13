@@ -1,4 +1,6 @@
 ## Hi there, I´m Octavio Mendoza 👋
+## I'm a computer engineer passionate about software development. I have over six years of experience
+## in the industry. I have solid programming skills and am fluent in various languages. Let's learn more about me.
 
 <!--
 **corona94/corona94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
